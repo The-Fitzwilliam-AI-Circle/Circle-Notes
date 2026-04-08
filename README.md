@@ -68,15 +68,15 @@ Each monthly folder contains:
 
 ---
 
-### Month 1 — February: Foundations
+### Month 1 — April: Foundations
 
 *Foundation model architectures — how do modern LLMs work?*
 
 #### Core
-
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (GPT-3, Sections 1–3)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+April: Foundations (Saturday, April 25th, from 3pm) 
+- Vaswani et al. (2017), [Attention is All You Need](url)
+- Radford et al. (2018), [Improving Language Understanding by Generative Pre-Training](url)
+- Radford et al. (2019), [Language Models are Unsupervised Multitask Learners](url).
 
 #### Supplemental
 
@@ -86,7 +86,7 @@ Each monthly folder contains:
 
 ---
 
-### Month 2 — March: Training
+### Month 2 — May: Scaling
 
 *How do we shape model behaviour? From pretraining to RLHF.*
 
