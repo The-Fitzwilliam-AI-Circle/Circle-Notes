@@ -105,7 +105,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 3 — April: Reasoning
+### Month 3 — June: Reasoning
 
 *How do we get models to reason?*
 
@@ -124,7 +124,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 4 — May: Decomposition
+### Month 4 — July: Decomposition
 
 *Breaking complex problems into tractable pieces.*
 
@@ -143,7 +143,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 5 — June: Agents
+### Month 5 — August: Agents
 
 *Tool use, code execution, agentic scaffolding.*
 
@@ -162,7 +162,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 6 — July: Applications
+### Month 6 — September: Applications
 
 *LLMs applied to scientific discovery.*
 
@@ -181,7 +181,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 7 — August: Uncertainty
+### Month 7 — October: Uncertainty
 
 *Quantifying and communicating model uncertainty.*
 
@@ -200,7 +200,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 8 — September: Interpretability
+### Month 8 — November: Interpretability
 
 *What is going on in there?*
 
@@ -219,7 +219,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 9 — October: Discovery
+### Month 9 — December: Discovery
 
 *Paradigms for scientific discovery.*
 
@@ -238,7 +238,7 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
-### Month 10 — November: Synthesis
+### Month 10 — January: Synthesis
 
 *No new readings. Focus on consolidation, writing, and the closing symposium.*
 
