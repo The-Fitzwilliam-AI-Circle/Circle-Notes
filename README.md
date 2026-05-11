@@ -2,8 +2,8 @@
 
 Session notes, reading summaries, and discussion documentation for The Fitzwilliam AI Circle.
 
-**Duration:** February–November 2026  
-**Location:** Dublin, Ireland  
+**Duration:** February–November 2026
+**Location:** Dublin, Ireland
 
 ---
 
@@ -39,6 +39,8 @@ Each monthly folder contains:
 
 ## Reading List
 
+> **Note:** Readings for months past June are tentative and may be changed as the programme develops.
+
 ### Month 0 — Primer Materials
 
 *Complete before the programme begins.*
@@ -72,34 +74,47 @@ Each monthly folder contains:
 
 *Foundation model architectures — how do modern LLMs work?*
 
+**Reading group:** Saturday, April 25th, 3pm
+**Technical lab:** Thursday, April 30th, 6pm — implementing GPT-1 from scratch
+
 #### Core
-April: Foundations (Saturday, April 25th, from 3pm) 
-- Vaswani et al. (2017), [Attention is All You Need](url)
-- Radford et al. (2018), [Improving Language Understanding by Generative Pre-Training](url)
-- Radford et al. (2019), [Language Models are Unsupervised Multitask Learners](url).
+
+- Vaswani et al. (2017), [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+- Radford et al. (2018), [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Radford et al. (2019), [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+#### Bonus
+
+- Andrej Karpathy, [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (video)
 
 #### Supplemental
 
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
-- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (video)
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 
 ---
 
 ### Month 2 — May: Scaling
 
-*How do we shape model behaviour? From pretraining to RLHF.*
+*How do scaling laws shape what we build, and what falls out when you take compute seriously?*
+
+**Reading group:** Saturday, May 16th, 3pm
 
 #### Core
 
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
-- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
-- [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+- Kaplan et al. (2020), [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+- Brown et al. (2020), [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- Hoffmann et al. (2022), [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
+
+#### Bonus
+
+- Richard Sutton, [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 
 #### Supplemental
 
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
+- [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 - [Direct Preference Optimization](http://arxiv.org/abs/2305.18290)
-- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://arxiv.org/abs/2402.03300)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](http://arxiv.org/abs/2305.14314)
 
@@ -107,13 +122,17 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ### Month 3 — June: Reasoning
 
-*How do we get models to reason?*
+*Chains of thought and reasoning models — how do we get models to reason?*
 
 #### Core
 
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-- [Scaling LLM Test-Time Compute Optimally](https://arxiv.org/abs/2408.03314)
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/pdf/2211.14275)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+
+#### Bonus
+
+- [Scaling LLM Test-Time Compute Optimally](https://arxiv.org/pdf/2408.03314)
 
 #### Supplemental
 
@@ -124,6 +143,8 @@ April: Foundations (Saturday, April 25th, from 3pm)
 
 ---
 
+> The readings below are **tentative** and subject to change.
+
 ### Month 4 — July: Decomposition
 
 *Breaking complex problems into tractable pieces.*
@@ -131,12 +152,11 @@ April: Foundations (Saturday, April 25th, from 3pm)
 #### Core
 
 - [Supervise Process, not Outcomes](https://ought.org/updates/2022-04-06-process)
-- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](http://arxiv.org/abs/2305.10601)
+- [Iterated Distillation and Amplification](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)
 
 #### Supplemental
 
-- [Iterated Distillation and Amplification](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)
 - [Factored Verification: Detecting and Reducing Hallucination in Summarization](https://arxiv.org/abs/2310.10627)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
 - [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
