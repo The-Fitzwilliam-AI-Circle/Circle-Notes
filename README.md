@@ -74,6 +74,8 @@ Each monthly folder contains:
 
 *Foundation model architectures — how do modern LLMs work?*
 
+Discussion prompts [here](https://docs.google.com/document/d/1ktO3FDOHOfPO17mlU_21lSgJ8ZAwmtnTJZM6u88r1Ag/edit?usp=sharing)
+
 **Reading group:** Saturday, April 25th, 3pm
 **Technical lab:** Thursday, April 30th, 6pm — implementing GPT-1 from scratch
 
@@ -97,6 +99,8 @@ Each monthly folder contains:
 ### Month 2 — May: Scaling
 
 *How do scaling laws shape what we build, and what falls out when you take compute seriously?*
+
+Discussion prompts [here](https://docs.google.com/document/d/1mLPt_kP8Jq63YZUayqpo2q0fOCa9Fn6e2Hp3hnw2puM/edit?usp=sharing)
 
 **Reading group:** Saturday, May 16th, 3pm
 
@@ -123,6 +127,10 @@ Each monthly folder contains:
 ### Month 3 — June: Reasoning
 
 *Chains of thought and reasoning models — how do we get models to reason?*
+
+Discussion prompts [here](https://docs.google.com/document/d/1yKiM335hheUFRGDZfFMv4Qsui1BFYtp-sz8_LKoeJcQ/edit?usp=sharing)
+
+**Reading group:** Saturday, June 13th, 3pm
 
 #### Core
 
